@@ -1,16 +1,39 @@
-## Hi there 👋
+<br>
+
+<div align="center">
+  <a href="https://jorritvanderheide.com">
+    <img src="banner.webp"/>
+  </a>
+</div>
+
+<br>
+
+<br>
+
+# 👋 Hi, I'm Jorrit
+A designer-developer from Nijmegen, the Netherlands, who works on projects with a positive social impact.
+
+## 💬 Ask me about
+- Frontend web development (React.js, Tailwind, Flutter)
+- Backend web development (TypeScript, PHP, Dart, Python)
+- UX/UI & Design systems (Figma, Atlassian, Material Design)
+- Linux & Declarative system management (NixOS)
+- DevOps & CI/CD (Docker, Nix Flakes)
 
 <!--
-**jorritvanderheide/jorritvanderheide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📅 Hobbies
+- 
 
-Here are some ideas to get you started:
+## 💻 Current projects
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📚 Learning
+- 3D modeling
+- Ham radio
+- PCB design
 -->
+
+<br>
+
+| <a href="https://github.com/jorritvanderheide/github-readme-stats"><img align="center" src="https://github-readme-stats-one-sigma-56.vercel.app/api?username=jorritvanderheide&show_icons=true&hide_rank=true&hide=stars&line_height=32&include_all_commits=true&theme=shadow_blue&hide_border=true" alt="Jorrit's github stats" /></a> | <a href="https://github.com/jorritvanderheide/github-readme-stats"><img align="center" src="https://github-readme-stats-one-sigma-56.vercel.app/api/top-langs/?username=jorritvanderheide&theme=shadow_blue&hide_border=true&langs_count=4&hide_title=true&hide=html,css,scss,processing,c%2B%2B,cmake&size_weight=0.5&count_weight=0.5" /></a> |
+| ------------- | ------------- |
