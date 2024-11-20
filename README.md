@@ -1,5 +1,3 @@
-<br>
-
 <div align="center">
   <a href="https://jorritvanderheide.com">
     <img src="banner.webp"/>
