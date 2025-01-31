@@ -9,7 +9,7 @@
 <br>
 
 # 👋 Hi, I'm Jorrit
-I am a designer-developer from Nijmegen, the Netherlands, who works on projects with a positive social impact.
+I am a designer and developer from Nijmegen, the Netherlands, who works on projects with a positive social impact.
 
 ## 💬 Ask me about
 - Frontend development (React.js, Tailwind, Flutter)
