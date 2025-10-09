@@ -12,7 +12,7 @@
 I am a designer and developer from Nijmegen, the Netherlands, who works on projects with a positive social impact.
 
 ## 💬 Ask me about
-- Frontend development (React.js, Tailwind, Flutter)
+- Frontend development (Vue, React.js, Tailwind, Flutter)
 - Backend development (TypeScript, PHP, Dart, Python)
 - UX/UI & Design systems (Figma, Atlassian, Material Design)
 - Linux & Declarative system management (NixOS)
