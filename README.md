@@ -8,6 +8,8 @@
 
 <br>
 
+[![Donate](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/BW20)
+
 # 👋 Hi, I'm Jorrit
 I am a designer and developer from Nijmegen, the Netherlands, who works on projects with a positive social impact.
 
